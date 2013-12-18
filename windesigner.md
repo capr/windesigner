@@ -1,12 +1,15 @@
-# Window Designer
+---
+project: windesigner
+tagline: WinAPI Window Designer
 
-v0.1a | [code](http://code.google.com/p/lua-files/source/browse/#hg%2Fwindesigner)
+v0.1a
 
 ### Status
 
-In development, see [todo list](http://code.google.com/p/lua-files/source/browse/windesigner/TODO.txt). Not active.
+In development, see [todo]. Not active.
 
 ## Features implemented so far
+
   * multi-select controls with shift and by dragging
   * move & resize controls
   * snapping of selected controls to unselected controls when moving and resizing
@@ -15,5 +18,9 @@ In development, see [todo list](http://code.google.com/p/lua-files/source/browse
 
 ### Run
 
-	> cd lua-files/windesigner
-	> designer
+	cd lua-files/windesigner
+	designer
+
+
+[todo]: http://github.com/capr/windesigner/blob/master/TODO.txt
+
