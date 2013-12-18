@@ -1,5 +1,6 @@
 steps toward delphi
 -------------------
+
 component pallette:
 	- control icons (make them or find some with a good license)
 	- customizable toolbar (hide/show/move icons)
